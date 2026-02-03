@@ -46,5 +46,5 @@ Using the findings from Phase 1, I transitioned from a research notebook to a pr
 ## 💻 Installation & Usage
 1. **Clone & Install:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Brain-Tumor-Classification-XAI.git](https://github.com/YOUR_USERNAME/Brain-Tumor-Classification-XAI.git)
+   git clone [https://github.com/MomenAlbawaridGit/CapstoneProject_MomenAlbawarid.git](https://github.com/YOUR_USERNAME/Brain-Tumor-Classification-XAI.git)
    pip install customtkinter tensorflow numpy pillow opencv-python
